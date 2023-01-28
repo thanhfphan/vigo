@@ -1,2 +1,2 @@
-# vi-go
-Vietnamese Input Method library
+# vigo
+The Vietnamese Input Engine
